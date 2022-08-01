@@ -1,0 +1,10 @@
+{
+  "bind": {
+    "TYPE": "BIND"
+  },
+  "r53_accountname": {
+    "TYPE": "ROUTE53",
+    "KeyId": "change_to_your_keyid",
+    "SecretKey": "change_to_your_secretkey"
+  }
+}
