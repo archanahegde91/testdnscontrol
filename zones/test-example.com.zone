@@ -1,0 +1,6 @@
+$TTL 300
+; generated with dnscontrol 2022-08-01T11:04:08+02:00
+@                IN SOA   DEFAULT_NOT_SET. DEFAULT_NOT_SET. 2022080101 3600 600 604800 1440
+                 IN A     1.2.3.16
+test             IN A     1.2.3.24
+www        3600  IN CNAME test-example.com.
